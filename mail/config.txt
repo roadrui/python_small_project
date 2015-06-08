@@ -1,0 +1,11 @@
+
+[common]
+path:E:\ex
+keyword:网络实验
+
+[email]
+username:computerST1@163.com
+password:XXXXXXX
+pop3_server:pop.163.com
+begin:2
+len:10
